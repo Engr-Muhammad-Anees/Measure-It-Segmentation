@@ -1,0 +1,4 @@
+venv/
+**pycache**/
+dataset/train/images/*
+*.pth
