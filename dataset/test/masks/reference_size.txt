@@ -1,0 +1,2 @@
+Card_Width_mm: 85.6
+Card_Height_mm: 54.0

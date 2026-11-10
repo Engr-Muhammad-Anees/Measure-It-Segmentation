@@ -1,0 +1,3 @@
+test_1.jpg, Width_mm: 85, Height_mm: 75
+test_2.jpg, Width_mm: 86, Height_mm: 74
+test_3.jpg, Width_mm: 84, Height_mm: 75
