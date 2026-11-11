@@ -1,0 +1,5 @@
+Image_Name,GT_Width_mm,GT_Height_mm,System_Width_mm,System_Height_mm,Width_Error_mm,Height_Error_mm
+Image_1.jpg,,,161.1,212.7,,
+Image_2.jpg,,,161.6,213.4,,
+Image_3.jpg,,,157.8,208.4,,
+Image_4.jpg,,,184.0,242.9,,
